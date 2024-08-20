@@ -37,8 +37,12 @@ Pour exécuter une application avec fastapi, on utilise uvicorn
 
 ## Dockerisation
 
+permet de facilité sa portabilité sur d'autre plateforme
+
 Configuration de notre dockerfile
 
 ## Configuration du dépoiement avec Procfile
+
+# Mise de place d'un pipeline CI/CD
 
 ## Lien entre github et github action
