@@ -1,6 +1,6 @@
 # predic_diabetes
 
-## Créatio de l'environnement virtuel et activation de l'environnement virtuel
+## Création de l'environnement virtuel et activation de l'environnement virtuel
 
 - pip -m venv myenv
 - ./myenv/Script/activate
